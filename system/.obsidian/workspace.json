@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "6d4b5cee3487d759",
+    "type": "split",
+    "children": [
+      {
+        "id": "312ff323a0d72e45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b9f1b043338815",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35a2afb26ba50be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e7b139b2f54348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da9572de334932e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77e8074f484745c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99e57e81f78f08cf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de595305754083b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "50647f264bd884e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a0f2482e9c982a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "616ced928bd60272",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ddd8e16ff0eeeef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1be339235a933c11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0b9f1b043338815",
+  "lastOpenFiles": [
+    "zettelkasten/Power Density Spectrum.md",
+    "zettelkasten/Signal Power.md",
+    "zettelkasten/Signal Energy.md",
+    "zettelkasten/Spectral Representation of a Stochastic Signal as The Expectation of Power Spectral Density.md",
+    "zettelkasten/Square Summability.md",
+    "zettelkasten/Seasonal Period Detection from Autocorrelation Envelope.md",
+    "zettelkasten/Seasonal Adjustment as Autocorrelation Destruction.md",
+    "zettelkasten/Impossibility of Fourier transform of a stationary signal.md",
+    "zettelkasten/Energy Spectral Density.md",
+    "zettelkasten/Autocorrelation in seasonal time series.md",
+    "zettelkasten/Spectral Representation of a Stochastic Signal as The Expectation of its Spectral Squared Magnitude.md",
+    "references/Ondas & Ondaletas - Morettin.md",
+    "templates/Main Note.md",
+    "zettelkasten/seasonality.md",
+    "zettelkasten/test.md",
+    "zettelkasten/Main Idea.md",
+    "zettelkasten/Untitled.md",
+    "references",
+    "templates",
+    "zettelkasten",
+    "files/gerdau_signal_autocorrelation.png",
+    "files",
+    "202303120154.md",
+    "202303120152.md",
+    "202303120153.md",
+    "figures/gerdau_signal_autocorrelation.png",
+    "figures"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten",
+  "attachmentFolderPath": "files",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
