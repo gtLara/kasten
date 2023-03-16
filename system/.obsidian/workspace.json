@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "312ff323a0d72e45",
+        "id": "d5d4b36455403f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b9f1b043338815",
+            "id": "9c2153f60a1c100b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Direct Sum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/Direct Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/Direct Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/Direct Sum.md"
+              }
             }
           }
         ]
@@ -138,20 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0b9f1b043338815",
+  "active": "9c2153f60a1c100b",
   "lastOpenFiles": [
-    "zettelkasten/Power Density Spectrum.md",
-    "zettelkasten/Signal Power.md",
-    "zettelkasten/Signal Energy.md",
-    "zettelkasten/Spectral Representation of a Stochastic Signal as The Expectation of Power Spectral Density.md",
-    "zettelkasten/Square Summability.md",
-    "zettelkasten/Seasonal Period Detection from Autocorrelation Envelope.md",
-    "zettelkasten/Seasonal Adjustment as Autocorrelation Destruction.md",
-    "zettelkasten/Impossibility of Fourier transform of a stationary signal.md",
-    "zettelkasten/Energy Spectral Density.md",
-    "zettelkasten/Autocorrelation in seasonal time series.md",
-    "zettelkasten/Spectral Representation of a Stochastic Signal as The Expectation of its Spectral Squared Magnitude.md",
+    "zettelkasten/Direct Sum.md",
+    "zettelkasten/Sum of Subspaces.md",
+    "zettelkasten/Vector Subspace.md",
+    "zettelkasten/Vector Space.md",
+    "zettelkasten/Verification that a subset is a subspace.md",
+    "zettelkasten/Spectral Representation of a Stochastic Process.md",
+    "references/Linear Algebra Done Right - Axler.md",
     "references/Ondas & Ondaletas - Morettin.md",
+    "Untitled",
+    "zettelkasten/Square Summability.md",
+    "zettelkasten/Wiener-Khinchin theorem.md",
+    "zettelkasten/Parseval's Theorem.md",
+    "zettelkasten/Impossibility of Fourier transform of a stationary signal.md",
+    "zettelkasten/Autocorrelation in seasonal time series.md",
+    "zettelkasten/Power Spectral Density.md",
+    "zettelkasten/Energy Spectral Density.md",
+    "zettelkasten/Signal Energy.md",
+    "zettelkasten/Seasonal Adjustment as Autocorrelation Destruction.md",
+    "zettelkasten/Signal Power.md",
+    "zettelkasten/Seasonal Period Detection from Autocorrelation Envelope.md",
+    "zettelkasten/Power Density Spectrum.md",
+    "zettelkasten/Spectral Representation of a Stochastic Signal as The Expectation of its Spectral Squared Magnitude.md",
     "templates/Main Note.md",
     "zettelkasten/seasonality.md",
     "zettelkasten/test.md",
@@ -162,9 +180,6 @@
     "zettelkasten",
     "files/gerdau_signal_autocorrelation.png",
     "files",
-    "202303120154.md",
-    "202303120152.md",
-    "202303120153.md",
     "figures/gerdau_signal_autocorrelation.png",
     "figures"
   ]

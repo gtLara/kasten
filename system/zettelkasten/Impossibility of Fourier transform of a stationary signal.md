@@ -15,7 +15,7 @@ If a function is non periodic but square summable  it has a spectral representat
 
 ### Leads To
 
-[[Spectral Representation of a Stochastic Signal as The Expectation of Power Spectral Density]]
+[[Spectral Representation of a Stochastic Process]]
 
 ### Related To
 
