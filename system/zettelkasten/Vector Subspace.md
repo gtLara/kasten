@@ -1,7 +1,7 @@
 15-03-2023   15:07
 
 Status: #idea
-Tags: #algebra
+Tags: [[algebra]]
 
 If a subset of a set which defines a subspace $V$ is also a vector space it is considered a subspace
 

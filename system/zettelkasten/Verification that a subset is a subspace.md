@@ -1,7 +1,7 @@
 15-03-2023   15:54
 
 Status: #idea
-Tags: #algebra
+Tags: [[algebra]]
 
 To verify that a subset $U$ of a vector space $V$ is itself a subspace one must check for the following conditions
 

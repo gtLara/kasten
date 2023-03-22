@@ -1,7 +1,7 @@
 15-02-13:39
 
 Status: #idea
-Tags: #algebra
+Tags: [[algebra]]
 
 A vector space $V$ is a set equipped with two operations
 
@@ -14,8 +14,8 @@ There operations are such that the following properties hold
 - *associativity*: (position of parenthesis don't matter)
 	  - $(u+v)+w = u+(v+w)$,  $\forall u, v, w \in V$
 	  - $(ab)v = a(bv)$,  $\forall a, b, \in \mathbf{F}$
-* *additive identity*: there exists $0 \in V$ such that $u + 0 = u$
-* *additive inverse*: for every $v\in V$ there exists $w \in V$ such that $v + w = 0$
+* *additive identity*: there exists $\bar 0 \in V$ such that $u + \bar0 = u$
+* *additive inverse*: for every $v\in V$ there exists $w \in V$ such that $v + w = \bar0$
 * *multiplicative identity*: $1v = v$
 * *distributive properties*:
     - $a(u + v) = au + av$

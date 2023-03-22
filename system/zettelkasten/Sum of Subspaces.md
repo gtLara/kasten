@@ -1,7 +1,7 @@
 15-03-2023   20:46
 
 Status: #idea
-Tags: #algebra
+Tags: [[algebra]]
 
 For subspaces $U_1, U_2, ..., U_m$ the sum $\sum_1^{m} U_i$ is defined as all the possible sums of elements $u_i$ of $U_i$
 

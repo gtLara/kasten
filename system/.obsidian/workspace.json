@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d4b36455403f4f",
+        "id": "b0bf634f2c908d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "9c2153f60a1c100b",
+            "id": "b54165916bcc329f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Direct Sum.md",
+                "file": "zettelkasten/Span.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de595305754083b6",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Direct Sum.md",
+                "file": "zettelkasten/Span.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Direct Sum.md",
+                "file": "zettelkasten/Span.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +127,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Direct Sum.md"
+                "file": "zettelkasten/Span.md"
               }
             }
+          },
+          {
+            "id": "b46b8f05429f6112",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,35 +157,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c2153f60a1c100b",
+  "active": "b54165916bcc329f",
   "lastOpenFiles": [
-    "zettelkasten/Direct Sum.md",
-    "zettelkasten/Sum of Subspaces.md",
-    "zettelkasten/Vector Subspace.md",
     "zettelkasten/Vector Space.md",
-    "zettelkasten/Verification that a subset is a subspace.md",
-    "zettelkasten/Spectral Representation of a Stochastic Process.md",
-    "references/Linear Algebra Done Right - Axler.md",
-    "references/Ondas & Ondaletas - Morettin.md",
-    "Untitled",
-    "zettelkasten/Square Summability.md",
+    "zettelkasten/Linear Combination.md",
+    "zettelkasten/Span.md",
+    "zettelkasten/Power Spectral Density.md",
+    "zettelkasten/Direct Sum.md",
     "zettelkasten/Wiener-Khinchin theorem.md",
-    "zettelkasten/Parseval's Theorem.md",
+    "zettelkasten/Spectral Representation of a Stochastic Process.md",
+    "zettelkasten/Stationary signals as Outputs of Linear Systems to Random Inputs.md",
+    "zettelkasten/Seasonal Period Detection from Autocorrelation Envelope.md",
+    "zettelkasten/Square Summability.md",
+    "literature/wold theorem and model structure.md",
+    "fleeting/Untitled.md",
+    "literature",
+    "fleeting",
+    "zettelkasten/Deterministic \"Shaping Filter\".md",
+    "zettelkasten/Shaping Filter.md",
+    "zettelkasten/Discrete Time Spectral Factorization.md",
+    "2023-03-24.md",
+    "zettelkasten/Sum of Subspaces.md",
+    "zettelkasten/Signal Power.md",
     "zettelkasten/Impossibility of Fourier transform of a stationary signal.md",
     "zettelkasten/Autocorrelation in seasonal time series.md",
-    "zettelkasten/Power Spectral Density.md",
-    "zettelkasten/Energy Spectral Density.md",
-    "zettelkasten/Signal Energy.md",
-    "zettelkasten/Seasonal Adjustment as Autocorrelation Destruction.md",
-    "zettelkasten/Signal Power.md",
-    "zettelkasten/Seasonal Period Detection from Autocorrelation Envelope.md",
-    "zettelkasten/Power Density Spectrum.md",
-    "zettelkasten/Spectral Representation of a Stochastic Signal as The Expectation of its Spectral Squared Magnitude.md",
-    "templates/Main Note.md",
-    "zettelkasten/seasonality.md",
-    "zettelkasten/test.md",
-    "zettelkasten/Main Idea.md",
-    "zettelkasten/Untitled.md",
+    "zettelkasten/Verification that a subset is a subspace.md",
+    "zettelkasten/Vector Subspace.md",
+    "references/Introduction to Random Signals and Applied Kalman Filtering - Brown & Hwang.md",
+    "references/Discrete Time Signal Processing - Oppenheim.md",
+    "references/Linear Algebra Done Right - Axler.md",
+    "references/Ondas & Ondaletas - Morettin.md",
     "references",
     "templates",
     "zettelkasten",
