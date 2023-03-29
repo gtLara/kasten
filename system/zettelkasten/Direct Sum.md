@@ -3,8 +3,10 @@
 Status: #idea
 Tags: [[algebra]]
 
+>[!definition]
 The sum $U + W$ of subspaces $U, W$ of $V$ is defined as a direct sum if each element $v=u_1, u_2 ... u_m$ can be written in only one way as a sum of the elements $u_j \in U_j$.
 
+>[!corollary]
 Supposing $U, W$ are subspaces of $V$ then $U + W$ is a direct sum, written as $U \bigoplus W$ if and only if $U \cap W= \{0\}$ 
 
 ---

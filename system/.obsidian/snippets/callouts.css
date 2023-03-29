@@ -1,0 +1,8 @@
+.callout[data-callout="definition"] {
+    --callout-color: 180, 142, 173;
+    --callout-icon: lucide-book-open;
+}
+.callout[data-callout="corollary"] {
+    --callout-color: 163,190,140;
+    --callout-icon: lucide-album;
+}

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0bf634f2c908d5c",
+        "id": "89848d7a4ba54bab",
         "type": "tabs",
         "children": [
           {
-            "id": "b54165916bcc329f",
+            "id": "81547903a0553cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Span.md",
+                "file": "zettelkasten/Dimension.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de595305754083b6",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Span.md",
+                "file": "zettelkasten/Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Span.md",
+                "file": "zettelkasten/Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Span.md"
+                "file": "zettelkasten/Dimension.md"
               }
             }
           },
@@ -157,13 +156,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b54165916bcc329f",
+  "active": "81547903a0553cd7",
   "lastOpenFiles": [
-    "zettelkasten/Vector Space.md",
-    "zettelkasten/Linear Combination.md",
     "zettelkasten/Span.md",
-    "zettelkasten/Power Spectral Density.md",
+    "zettelkasten/Energy Spectral Density.md",
+    "zettelkasten/Finite Dimensional Vector Space.md",
+    "zettelkasten/Impossibility of Fourier transform of a stationary signal.md",
+    "zettelkasten/Infinite Dimensional Vector Space.md",
+    "zettelkasten/Basis.md",
+    "zettelkasten/Dimension.md",
+    "zettelkasten/Linear Dependence.md",
+    "zettelkasten/Linear Independence.md",
+    "zettelkasten/Linear Combination.md",
+    "zettelkasten/Untitled.md",
     "zettelkasten/Direct Sum.md",
+    "callouts/callouts.css",
+    "callouts",
+    "zettelkasten/Sum of Subspaces.md",
+    "zettelkasten/Vector Subspace.md",
+    "zettelkasten/Verification that a subset is a subspace.md",
+    "zettelkasten/Vector Space.md",
+    "zettelkasten/Power Spectral Density.md",
     "zettelkasten/Wiener-Khinchin theorem.md",
     "zettelkasten/Spectral Representation of a Stochastic Process.md",
     "zettelkasten/Stationary signals as Outputs of Linear Systems to Random Inputs.md",
@@ -175,18 +188,6 @@
     "fleeting",
     "zettelkasten/Deterministic \"Shaping Filter\".md",
     "zettelkasten/Shaping Filter.md",
-    "zettelkasten/Discrete Time Spectral Factorization.md",
-    "2023-03-24.md",
-    "zettelkasten/Sum of Subspaces.md",
-    "zettelkasten/Signal Power.md",
-    "zettelkasten/Impossibility of Fourier transform of a stationary signal.md",
-    "zettelkasten/Autocorrelation in seasonal time series.md",
-    "zettelkasten/Verification that a subset is a subspace.md",
-    "zettelkasten/Vector Subspace.md",
-    "references/Introduction to Random Signals and Applied Kalman Filtering - Brown & Hwang.md",
-    "references/Discrete Time Signal Processing - Oppenheim.md",
-    "references/Linear Algebra Done Right - Axler.md",
-    "references/Ondas & Ondaletas - Morettin.md",
     "references",
     "templates",
     "zettelkasten",
