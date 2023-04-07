@@ -7,7 +7,7 @@ Tags: [[spectral]]
 
 $$ P = \lim_{T \to \infty} \frac{1}{2T}\frac{1}{2\pi} \int^{T}_{-T}|F\{x(t)\}(\omega)|^2 d\omega = \lim_{T \to \infty} \frac{1}{2T}\frac{1}{2\pi} \int^{T}_{-T}|X(\omega)|^2 d\omega$$
 
-If $x(t)$ is square summable $P\to 0$   and it's spectral description is given by the [[Energy Spectral Density]].  If not, that is, if $x(t)$ is a power signal, the above definition makes sense since $P \to c$ , $c \neq 0$, but $X(\omega)$ is not well defined. Nevertheless in analogy to the [[Energy Spectral Density]] the _power spectral density_ can be defined as
+If $x(t)$ is square summable $P\to 0$   and its spectral description is given by the [[Energy Spectral Density]].  If not, that is, if $x(t)$ is a power signal, the above definition makes sense since $P \to c$ , $c \neq 0$, but $X(\omega)$ is not well defined. Nevertheless in analogy to the [[Energy Spectral Density]] the _power spectral density_ can be defined as
 
 $$ S_{x}(\omega) = \lim_{T \to \infty}\frac{1}{2\pi} \frac{1}{2T} |X(\omega)|² $$
 

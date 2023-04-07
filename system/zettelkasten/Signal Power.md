@@ -11,7 +11,8 @@ The same relationship between physical and signal energy is true for physical an
 
 ### Leads To
 
-[[Power Density Spectrum]]
+[[Parseval's Theorem]]
+[[Power Spectral Density]]
 
 ### Related To
 
